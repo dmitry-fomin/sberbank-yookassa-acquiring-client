@@ -21,7 +21,7 @@ class Client
 {
     const ACTION_SUCCESS = 0;
 
-    const API_URI            = 'https://securepayments.sberbank.ru';
+    const API_URI            = 'https://3dsec-payments.yookassa.ru';
     const API_URI_TEST       = 'https://3dsec.sberbank.ru';
     const API_PREFIX_DEFAULT = '/payment/rest/';
     const API_PREFIX_CREDIT  = '/sbercredit/';
